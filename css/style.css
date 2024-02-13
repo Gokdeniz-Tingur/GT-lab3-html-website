@@ -46,6 +46,7 @@ header #branding{
 
 header #branding h1{
     margin:0;
+    color: #e8491d;
 }
 
 header nav{
@@ -53,3 +54,7 @@ header nav{
     margin-top:10px;
 }
 
+header .current a{
+    color: #e8491d;
+    font-weight: bold;
+}
